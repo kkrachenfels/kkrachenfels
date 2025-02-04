@@ -1,10 +1,8 @@
-## Hi there 👋
-
 <!--
 **kkrachenfels/kkrachenfels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+## Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Hi! I am a Master’s student in the Computer Science department at UC Santa Barbara.
+
+I received my Bachelor’s degree in Computer Science and Engineering from UC Davis. I have both technical software internship and research experience, and am interested in research involving human-based data as well as research that allows machines to saliently and semantically process their environments, such as via multimodal input. Broadly, I am interested in machine learning for medicine, language and computer vision (and, by extension, psychology/neuroscience), and hardware-adjacent applications like robotics.
+
