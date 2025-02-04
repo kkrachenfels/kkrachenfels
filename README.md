@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 
-Hi! More about me <a href="kkrachenfels.github.io" target="_blank">here</a> :) 
+Hi! More about me <a href="https://kkrachenfels.github.io" target="_blank">here</a> :) 
 
